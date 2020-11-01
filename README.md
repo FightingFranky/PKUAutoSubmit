@@ -1,4 +1,4 @@
-# PKUAutoSubmit (modified1)
+# PKUAutoSubmit (modified)
 
 ## What did I do
 
